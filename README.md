@@ -1,5 +1,5 @@
 # BrowserQuest Bot
-A bot for BrowserQuest(http://browserquest.mozilla.org/) that hooks the game client to send auto-attack commands and toggle invicibility.
+A bot for BrowserQuest(http://browserquest.mozilla.org/) that hooks the game client to send auto-attack commands and toggle invincibility.
 
 ![promo image](https://thumbs.gfycat.com/EcstaticHomelyEastrussiancoursinghounds-size_restricted.gif)
 
